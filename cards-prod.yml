@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "yuosef jamal prod- Developer"
     email: "yuosefprod@eazybank.com"
